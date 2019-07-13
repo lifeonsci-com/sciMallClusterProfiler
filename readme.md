@@ -6,10 +6,15 @@
 ```
 git clone git@github.com:lifeonsci-com/sciMallClusterProfiler.git
 cd sciMallClusterProfiler
-R CMD INSTALL sciMallClusterProfiler_1.0.0.tar.gz
+R CMD INSTALL sciMallClusterProfiler_1.1.0.tar.gz
 ```
 
 ### 更新内容
+
+### version1.1.0
+
+1. 修改ID没有注释，Description没有的问题
+
 
 ### version1.0.0
 
